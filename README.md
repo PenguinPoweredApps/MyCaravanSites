@@ -16,7 +16,7 @@ Email Sharing: Share interesting caravan site finds with friends and family via 
 
 Customizable: Easily adapt and extend the code to add more features or integrate with other APIs.
 
-How to Use:
+## How to Use:
 
 Clone this repository.
 Install the required dependencies (tkinter, requests, webbrowser, pyperclip, subprocess).
@@ -25,6 +25,6 @@ Obtain a Google Maps API key and add it to the api_key variable in the code.
 
 Run the main.py script to launch the application.
 
-Contributing:
+## Contributing:
 
 Contributions are welcome! Feel free to open issues to report bugs or suggest enhancements. If you'd like to add new features or fix issues, please fork the repository and submit a pull request.
