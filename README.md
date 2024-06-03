@@ -2,7 +2,7 @@
 
 My Caravan Sites is a Python-based application built with tkinter that simplifies the search for caravan sites in the United Kingdom. Whether you're planning a weekend getaway or a longer holiday, this app helps you discover the perfect site for your caravanning adventure.
 
-Key Features:
+## Key Features:
 
 Location-Based Search: Easily search for caravan sites near a specific location entered by the user.
 
