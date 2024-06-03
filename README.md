@@ -4,7 +4,8 @@ My Caravan Sites is a Python-based application built with tkinter that simplifie
 
 ## Key Features:
 
-#### Location-Based Search: Easily search for caravan sites near a specific location entered by the user.
+#### Location-Based Search: 
+Easily search for caravan sites near a specific location entered by the user.
 
 Google Maps Integration: View results directly on Google Maps for easy navigation and location visualization.
 
